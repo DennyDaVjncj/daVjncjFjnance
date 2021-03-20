@@ -1,2 +1,3 @@
-# 📈 daVjncjFjnance: development to begin 4/1/21
+# 📈 daVjncjFjnance
 a fintech application: stock brokerage
+development to begin 4/15/21
