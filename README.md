@@ -1,2 +1,2 @@
-# 📈 daVjncjFjnance: development to begin 4/1/21
-a fintech application: stock brokerage
+# 📈 daVjncjFjnance
+a fintech application: stock brokerage | ``development to begin 4/15/21``
